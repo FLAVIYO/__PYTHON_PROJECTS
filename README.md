@@ -4,8 +4,7 @@ Welcome to my collection of Python projects! Below is a list of various Python p
 
 ## Projects List
 
-1. **[Project 1: Emailed Jobs Data Extraction](https://github.com/FLAVIYO/Emailed-Jobs-Data-Extraction/tree/main)**  
-   A Python project that extracts job data from emailed job listings.
+1. **[ Emailed Jobs Data Extraction](https://github.com/FLAVIYO/Emailed-Jobs-Data-Extraction/tree/main)**  
 
 ## Technologies Used
 - Python
